@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Yahya</h1>
-<h3 align="center">Frontend Web Developer • UI/UX Enthusiast • Clean Code Addict</h3>
+<h1 align="center">Hi 👋, I'm Galih</h1>
+<h3 align="center">Backend Web Developer • Laravel Enthusiast • Clean Code Lover</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YahyaAeyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=GalihAdiPrayoga&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on: *for now on "UKT Library Application"*  
-- 🌱 Learning: *React, Node.js, Bootstrap, Css3*  
-- 💬 Ask me about: *HTML, CSS, JavaScript*  
-- 📫 How to reach me: [lutfiyahya60@email.com](mailto:lutfiyahya60@email.com)  
+- 🔭 I’m currently working on: *Laravel REST API Projects*  
+- 🌱 Learning: *Laravel, MySQL, REST API, Sanctum*  
+- 💬 Ask me about: *Laravel, PHP, Backend Design*  
+- 📫 How to reach me: [galihadi@email.com](mailto:galihadi@email.com)
 
 ---
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mysql,php,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,vscode" />
 </p>
 
 ---
 
-
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaAeyaaa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaAeyaaa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GalihAdiPrayoga&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalihAdiPrayoga&layout=compact&theme=tokyonight" />
 </p>
