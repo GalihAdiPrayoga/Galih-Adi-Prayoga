@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on: *Laravel REST API Projects*  
 - 🌱 Learning: *Laravel, MySQL, REST API, Sanctum*  
 - 💬 Ask me about: *Laravel, PHP, Backend Design*  
-- 📫 How to reach me: [galihadi@email.com](mailto:galihadi@email.com)
+- 📫 How to reach me: [galihadi@email.com](mailto:gprayoga742@gmail.com)
 
 ---
 
