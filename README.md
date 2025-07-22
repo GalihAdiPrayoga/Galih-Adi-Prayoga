@@ -16,7 +16,7 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,vscode,react,javascript" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,vscode,react,javascript,tailwind,bootstrap" />
 </p>
 
 ---
