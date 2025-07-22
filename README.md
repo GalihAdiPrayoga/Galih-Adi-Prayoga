@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galih</h1>
-<h3 align="center">Backend Web Developer • Laravel Enthusiast • Clean Code Lover</h3>
+<h3 align="center">Web Developer • Laravel Enthusiast • Clean Code Lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GalihAdiPrayoga&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
